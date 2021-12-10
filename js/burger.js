@@ -1,0 +1,1 @@
+$(".burger").click(function(e){$(".burger, .header_list").toggleClass("active")});
